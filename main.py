@@ -1,12 +1,4 @@
 
-# run in cmd!
-
-# 1  cd C:\Program Files\Google\Chrome\Application\
-
-# below run the code from " to "
-
-# 2  C:\Program Files\Google\Chrome\Application>"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=1980
-# --user-data-dir="C:\Users\wajee\chrome-automationKEYS\chromeKEY1980"
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
